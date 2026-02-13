@@ -1,6 +1,6 @@
 # Digital Payments Onboarding Demo
 
-Live Demo: (will add after deployment)
+Live Demo: (https://698f1bc16f05ae4e039dda45--tubular-brigadeiros-43faa5.netlify.app/)
 
 ## Problem Statement
 Many users drop off before completing their first transaction in payment apps.
